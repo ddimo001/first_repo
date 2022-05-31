@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+  <companies>
+    <company name="login" datasource="cwwebapp_login" owner_id="1" codebase="v4_6_release/" root_directory="c:\websites\psa" db_oledb_provider="SQLOLEDB" db_server="cwstaging" db_database="cwwebapp_login" db_login="cwdblogin" admin_user="zadmin" service_network_queuename="nsn_login" />
+    <company name="echotsdev" datasource="cwwebapp_echotsdev" owner_id="1" codebase="v4_6_release/" root_directory="c:\websites\psa" db_oledb_provider="SQLOLEDB" db_server="cwstaging" db_database="cwwebapp_echotsdev" db_login="cwdblogin" admin_user="zadmin" service_network_queuename="nsn_echotsdev" />
+  </companies>
+</config>
